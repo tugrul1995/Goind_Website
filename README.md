@@ -1,3 +1,3 @@
 # Goind_Website
 
-https://github.com/tugrul1995/Goind_Website.git
+file:///C:/Users/Tugru/OneDrive/Desktop/Goind%20Project/site1.html
