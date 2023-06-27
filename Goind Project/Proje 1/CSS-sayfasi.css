@@ -1,0 +1,35 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+ #center-content-img {
+   background-color: lightgrey;
+   height: 400px;
+   width: 100%;
+   margin: 0 auto;
+   background-image: url("center.jpg");
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+ }
